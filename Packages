@@ -16,6 +16,21 @@ Author: Redpandadev <rpdev@rpdev.info>
 Name: betterFiveColumnHomescreen
 dev: rpdev
 
+Package: com.charlie505.inapp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Charlie
+Depends: mobilesubstrate
+Filename: ./debs/com.charlie505.inapp.deb
+Size: 2992
+MD5sum: 1de3785ebb563cbeb901a94b7719aeba
+Homepage: http://repo.charlie505.com
+Description: Free in-App Purchases on IOS 11
+Name: InApp for IOS 11+
+Author: charlie505
+Depiction: http://repo.charlie505.com/description.html?id=com.charlie505.inapp
+
 Package: com.julioverne.artworkify
 Architecture: iphoneos-arm
 Version: 0.0~beta4
@@ -45,20 +60,6 @@ Description: Best Lyrics Music
 Name: MusiLyric
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musilyric
-
-Package: com.kael.inapp
-Architecture: iphoneos-arm
-Version: 0.0.1-2+debug
-Section: Tweaks
-Maintainer: System Administrator
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.kael.inapp_0.0.1-2+debug_iphoneos-arm.deb
-Size: 2894
-MD5sum: c141e59c8de5e743184946c7bb8c51a8
-Description: An awesome MobileSubstrate tweak!
-Name: InApp
-Author: System Administrator
 
 Package: iOSGods.com.PlantsvsZombies2
 Architecture: iphoneos-arm
