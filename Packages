@@ -1,0 +1,103 @@
+Package: info.rpdev.betterfivecolumnhomescreen
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 130
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), com.chpwn.iconsupport
+Filename: ./debs/betterfivecolumnhomescreen_1.0.1.deb
+Size: 8522
+MD5sum: 75742011f213c1ac6febba5dadafffaa
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterfivecolumnhomescreenDp
+Description: Five Column Homescreen with proper spacing!
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterfivecolumnhomescreenDp
+Author: Redpandadev <rpdev@rpdev.info>
+Name: betterFiveColumnHomescreen
+dev: rpdev
+
+Package: com.julioverne.artworkify
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.artworkify_0.0~beta4_iphoneos-arm.deb
+Size: 26648
+MD5sum: 19b346c1ba2e49529c24ee4dcea649d4
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Artwork In Playlist
+Name: Artworkify
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.artworkify
+
+Package: com.julioverne.musilyric
+Architecture: iphoneos-arm
+Version: 0.5~beta3
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.musilyric_0.5~beta3_iphoneos-arm.deb
+Size: 35240
+MD5sum: 8fe5ecfdd6146f6eeb3521e5396f1f58
+Homepage: http://twitter.com/ijulioverne
+Description: Best Lyrics Music
+Name: MusiLyric
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musilyric
+
+Package: iOSGods.com.PlantsvsZombies2
+Architecture: iphoneos-arm
+Version: 6.5.1-2
+Section: Tweaks
+Maintainer: iOSGods.com
+Installed-Size: 604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iOSGods.com.PlantsvsZombies2_6.5.1-2_iphoneos-arm.deb
+Size: 194144
+MD5sum: dea6fcb22f397a4f058d0ba6402d4c7e
+Homepage: https://iosgods.com
+Description: Plants vs. Zombies™ 2 Cheats by DiDA for iOSGods.com!
+Name: Plants vs. Zombies™ 2 Cheats
+Author: DiDA
+
+Package: com.justinpet26.quickvolumehudplus
+Architecture: iphoneos-arm
+Version: 2.2-3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 271
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/quickvolumehudplus_2.2-3.deb
+Size: 9402
+MD5sum: ff4347cd2a8cba4152b70c21022b1eca
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickvolumehudplusDp
+Description: Quicker dismissal of the Volume HUD.
+Tag: purpose::extension, compatible::ios8
+Author: Justin Petkovic <justin.petkovic@hotmail.com>
+Name: QuickVolumeHUD+
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickvolumehudplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: justinpet26
+Icon: file:///Library/PreferenceBundles/QuickVolumeHUD.bundle/AppIcon29x29@2x.png
+
+Package: xyz.xninja.systeminfo
+Architecture: iphoneos-arm
+Version: 1.2.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 153
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./debs/systeminfo_1.2.1.deb
+Size: 27166
+MD5sum: 4b1cf2335578e7231b765965114c3e63
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
+Description: Device info added to General > About
+Tag: purpose::extension, compatible::ios10
+Name: System Info
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: ARX8x <arx8@icloud.com>
+dev: arx8x
+
