@@ -31,21 +31,6 @@ Name: InApp for IOS 11+
 Author: charlie505
 Depiction: http://repo.charlie505.com/description.html?id=com.charlie505.inapp
 
-Package: com.julioverne.artworkify
-Architecture: iphoneos-arm
-Version: 0.0~beta4
-Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debs/com.julioverne.artworkify_0.0~beta4_iphoneos-arm.deb
-Size: 26648
-MD5sum: 19b346c1ba2e49529c24ee4dcea649d4
-Homepage: http://twitter.com/ijulioverne
-Description: Spotify Artwork In Playlist
-Name: Artworkify
-Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.artworkify
-
 Package: com.julioverne.musilyric
 Architecture: iphoneos-arm
 Version: 0.5~beta3
@@ -60,6 +45,21 @@ Description: Best Lyrics Music
 Name: MusiLyric
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musilyric
+
+Package: iOSGods.com.GarenaFreeFire
+Architecture: iphoneos-arm
+Version: 1.16.0
+Section: Tweaks
+Maintainer: iOSGods.com
+Installed-Size: 4848
+Depends: mobilesubstrate
+Filename: ./debs/iOSGods.com.GarenaFreeFire_1.16.0_iphoneos-arm.deb
+Size: 1674450
+MD5sum: 39af4f90a351aac5441a413913534d6c
+Homepage: https://iosgods.com
+Description: Garena Free Fire iGMM Cheats by ZahirSher & DiDA for iOSGods.com!
+Name: Garena Free Fire Cheats
+Author: ZahirSher & DiDA
 
 Package: iOSGods.com.PlantsvsZombies2
 Architecture: iphoneos-arm
@@ -95,24 +95,4 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickvolum
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: justinpet26
 Icon: file:///Library/PreferenceBundles/QuickVolumeHUD.bundle/AppIcon29x29@2x.png
-
-Package: xyz.xninja.systeminfo
-Architecture: iphoneos-arm
-Version: 1.2.1
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 153
-Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: ./debs/systeminfo_1.2.1.deb
-Size: 27166
-MD5sum: 4b1cf2335578e7231b765965114c3e63
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
-Description: Device info added to General > About
-Tag: purpose::extension, compatible::ios10
-Name: System Info
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: ARX8x <arx8@icloud.com>
-dev: arx8x
 
