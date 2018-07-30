@@ -16,6 +16,22 @@ Author: Redpandadev <rpdev@rpdev.info>
 Name: betterFiveColumnHomescreen
 dev: rpdev
 
+Package: com.charlie505.gopro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: charlie505 <l1t0x@yandex.com>
+Depends: mobilesubstrate, com.ex.libsubstitute, org.coolstar.tweakinject, com.alexzielenski.zeppelin (>= 2.1.0-12)
+Filename: ./debs/com.charlie505.gopro.deb
+Size: 16502
+MD5sum: da4733e10879acda3338ed3162e69e14
+Homepage: http://repo.charlie505.com
+Description: GoPro logos for Zeppelin with colors!
+Name: GoPro logos for Zeppelin
+Depiction: http://repo.charlie505.com/description.html?id=com.charlie505.gopro
+Author: charlie505 <l1t0x@yandex.com>
+Icon: http://repo.charlie505.com/debs/img/gopro.png
+
 Package: com.charlie505.inapp
 Architecture: iphoneos-arm
 Version: 1.0
@@ -45,36 +61,6 @@ Description: Best Lyrics Music
 Name: MusiLyric
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musilyric
-
-Package: iOSGods.com.GarenaFreeFire
-Architecture: iphoneos-arm
-Version: 1.16.0
-Section: Tweaks
-Maintainer: iOSGods.com
-Installed-Size: 4848
-Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.GarenaFreeFire_1.16.0_iphoneos-arm.deb
-Size: 1674450
-MD5sum: 39af4f90a351aac5441a413913534d6c
-Homepage: https://iosgods.com
-Description: Garena Free Fire iGMM Cheats by ZahirSher & DiDA for iOSGods.com!
-Name: Garena Free Fire Cheats
-Author: ZahirSher & DiDA
-
-Package: iOSGods.com.PlantsvsZombies2
-Architecture: iphoneos-arm
-Version: 6.5.1-2
-Section: Tweaks
-Maintainer: iOSGods.com
-Installed-Size: 604
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/iOSGods.com.PlantsvsZombies2_6.5.1-2_iphoneos-arm.deb
-Size: 194144
-MD5sum: dea6fcb22f397a4f058d0ba6402d4c7e
-Homepage: https://iosgods.com
-Description: Plants vs. Zombies™ 2 Cheats by DiDA for iOSGods.com!
-Name: Plants vs. Zombies™ 2 Cheats
-Author: DiDA
 
 Package: com.justinpet26.quickvolumehudplus
 Architecture: iphoneos-arm
