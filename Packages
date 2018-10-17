@@ -18,17 +18,17 @@ dev: rpdev
 
 Package: com.charlie505.gopro
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.2
 Section: Addons (Zeppelin)
 Maintainer: charlie505 <l1t0x@yandex.com>
-Depends: mobilesubstrate, com.ex.libsubstitute, org.coolstar.tweakinject, com.alexzielenski.zeppelin (>= 2.1.0-12)
-Replaces: com.charlie505.gopro (<< 1.0)
+Depends: com.alexzielenski.zeppelin
+Replaces: com.charlie505.gopro (<< 1.1)
 Filename: ./debs/com.charlie505.gopro.deb
-Size: 36716
-MD5sum: ff2efe15167a103e4957915ef079f4c8
+Size: 44446
+MD5sum: a215a639c9c7a0f851ffa9b628b75f5a
 Homepage: http://repo.charlie505.com
-Description: GoPro logos for Zeppelin with colors!
-Name: GoPro logos for Zeppelin
+Description: set of GoPro icons for Zeppelin!
+Name: GoPro icons for Zeppelin
 Depiction: http://repo.charlie505.com/description.html?id=com.charlie505.gopro
 Author: charlie505 <l1t0x@yandex.com>
 Icon: file:///Library/PreferenceBundles/charlie505.bundle/icon@2x.png
